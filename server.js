@@ -20,8 +20,7 @@ app.get('/', (req, res) => {
 app.get('/data', stamper, (req, res) => {
 
   const outputObject = {
-    10: "even",
-    5: "odd",
+    "Working":"very well",
     "time": req.timestamp // we got this from the middleware
   };
 
