@@ -2,10 +2,10 @@
 
 ### notes-class-01
 
-* make a repo and make a workflow fo CI 
-* clone it on my machine on provide it with files an libraries 
-* make test 
-* deploy to heroku 
+* make a repo and make a workflow fo CI .
+* clone it on my machine on provide it with files an libraries .
+* make test .
+* deploy to heroku .
 
 
 
